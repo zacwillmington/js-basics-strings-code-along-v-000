@@ -3,4 +3,4 @@ const currentUser = "Billy fing";
 
 let welcomeMessage = "Welcome to Flatbook, " + currentUser + "!"
 
-let excitedWelcomeMessage = "WELCOME TO FLATBOOK, " + UpperCase(currentUser) + "!"
+let excitedWelcomeMessage = "WELCOME TO FLATBOOK, " + toUpperCase(currentUser) + "!"
